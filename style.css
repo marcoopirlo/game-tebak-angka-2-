@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    max-width: 810px;
+    max-height: 1000px;
+    margin: 115px auto;
+    text-align: center;
+
+}
+
+.title{
+    margin-bottom: 80px;
+    font-size: 55px;
+    text-shadow: 2px 2px 2px red;
+}
+
+.komputer{
+    text-shadow: 2px 2px 2px rgb(255, 0, 0) ;
+    font-size: 50px;
+    margin-bottom: 90px;
+}
+
+.input-user{
+    padding: 15px;
+    font-size: 30px;
+    text-align: center;
+    width: 270px;
+    border-radius: 10px;
+    border: 5px solid black;
+    box-shadow: 0 0 5px red;
+    margin-bottom: 15px;
+}
+
+.kirim{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    padding: 20px 50px 20px 50px;
+    border-radius: 5px;
+    margin-bottom: 45px;
+}
+
+.result{
+    font-size: 50px;
+}
+
+.background-container{
+    background-color: grey;
+}
